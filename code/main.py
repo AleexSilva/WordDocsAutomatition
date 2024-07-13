@@ -2,8 +2,8 @@ import pandas as pd
 from datetime import datetime
 from docxtpl import DocxTemplate
 import os
-# Global Variables
 
+# Global Variables
 name = "Alex Silva"
 phone = "+1 547822516"
 email = "alex.silva94@gmail.com"
