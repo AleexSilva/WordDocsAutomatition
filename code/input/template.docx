@@ -1,0 +1,24 @@
+
+Date: {{date}}
+
+Dear {{student_name}}:
+
+I hope you are doing well. As a math, fisics and chemistry professor I am pleased to announce that your grades for each subject were as follows:
+
+- Math: {{math_note}}
+
+- Fisics: {{fisics_note}}
+
+- Chemistry: {{chemistry_note}}
+
+These grades reflect your performance in each subject mentioned during this period.
+
+If you have any questions about your notes, do not hesitate to contact me, I am here to help you in your learning process. 
+You can find me in the following media:
+- Email: {{email}}
+- Phone: {{phone}}
+Continue working and putting effort into your studies. I am sure you will achieve great academic achievements.
+
+Regards,
+
+{{name}}
